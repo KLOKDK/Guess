@@ -2,5 +2,20 @@
   "dependencies": {
     "discord.js": "^13.3.1",
     "distube": "^3.0.3"
-  }
+  },
+  "name": "guesssong",
+  "version": "1.0.0",
+  "description": "Discord Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KLOKDK/guess"
+  },
+  "author": "Kim",
+  "license": "ISC"
+}
+
 }
