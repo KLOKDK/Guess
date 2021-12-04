@@ -257,4 +257,4 @@ function stopQueue(queue) {
     scoreBoard = {}; questionInfo = { time: 15, MAX_LENGTH: 30, count: -1, members: 0 }; vote = {};
 }
 
-client.login(config.token);
+client.login(process.env.token);
